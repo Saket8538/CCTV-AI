@@ -344,4 +344,7 @@ Expected shape:
 
 ## License
 
-MIT License. See `LICENSE.txt`.
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
