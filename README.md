@@ -144,7 +144,7 @@ The Streamlit app includes safe migration logic to add missing columns when need
 ### Windows Command Prompt
 
 ```bat
-cd c:\Users\saket\Desktop\AI
+cd c:\Users\Desktop\CCTV-AI
 .venv\Scripts\activate
 pip install -r requirements.txt
 ```
@@ -152,7 +152,7 @@ pip install -r requirements.txt
 ### PowerShell
 
 ```powershell
-Set-Location c:\Users\saket\Desktop\AI
+Set-Location c:\Users\Desktop\CCTV-AI
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 ```
@@ -197,7 +197,7 @@ Desktop flow can fallback to legacy Twilio values from:
 ### Streamlit (Recommended)
 
 ```bat
-cd c:\Users\saket\Desktop\AI
+cd c:\Users\Desktop\CCTV-AI
 .venv\Scripts\activate
 streamlit run streamlit_app.py
 ```
@@ -217,7 +217,7 @@ Sidebar modules:
 ### Tkinter Desktop App
 
 ```bat
-cd c:\Users\saket\Desktop\AI
+cd c:\Users\Desktop\CCTV-AI
 .venv\Scripts\activate
 python app.py
 ```
@@ -229,7 +229,7 @@ python app.py
 ### Live camera
 
 ```bat
-cd c:\Users\saket\Desktop\AI
+cd c:\Users\Desktop\CCTV-AI
 .venv\Scripts\activate
 python enhanced_detector.py --cam_id 0
 ```
@@ -237,7 +237,7 @@ python enhanced_detector.py --cam_id 0
 ### Footage file
 
 ```bat
-cd c:\Users\saket\Desktop\AI
+cd c:\Users\Desktop\CCTV-AI
 .venv\Scripts\activate
 python enhanced_detector.py --footage_path "temp\sample.mp4"
 ```
