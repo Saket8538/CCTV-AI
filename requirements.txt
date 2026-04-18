@@ -1,0 +1,28 @@
+# CCTV AI - Missing Person Detection System
+# Optimized requirements for Streamlit app with YOLO + OpenCV LBPH
+
+# Web Framework
+streamlit>=1.31.0
+
+# Computer Vision & Detection
+opencv-python>=4.8
+ultralytics>=8.3.0
+# torch and torchvision will be installed by ultralytics
+onnxruntime-gpu>=1.16
+insightface>=0.7
+lapx>=0.5.5
+filterpy>=1.4.5
+scipy>=1.10
+
+# Image Processing
+Pillow>=10.2.0
+numpy>=1.24
+
+# Data Handling
+pandas>=2.1.4
+
+# Logging
+loguru>=0.7.2
+
+# Notifications
+twilio>=9.3.0

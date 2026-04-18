@@ -1,0 +1,8 @@
+{
+  "twilio": {
+    "sid": "AC0cc7791d7297aa3f0b2a728d5f2759fe",
+    "token": "1da07f3ae67d23249b51b8bc01a5bfa4",
+    "from_": "+16627074842",
+    "messaging_service_sid": "MG3734f082088f9c430c197501f322e87f"
+  }
+}
